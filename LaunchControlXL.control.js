@@ -1,6 +1,6 @@
 loadAPI(1);
 
-host.defineController("Novation", "Launch Control XL", "1.0", "94793080-55fb-11e4-8ed6-0800200c9a66");
+host.defineController("Novation", "Launch Control XL", "1.0", "f2bc4501-915c-4cc0-ba7e-6dd8743708a4");
 host.defineMidiPorts(1, 1);
 host.addDeviceNameBasedDiscoveryPair(["Launch Control XL"], ["Launch Control XL"]);
 host.defineSysexIdentityReply('F0 7E 00 06 02 00 20 29 61 00 00 00 00 00 03 06 F7');
