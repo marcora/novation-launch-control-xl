@@ -1,2 +1,1 @@
-bitwig-novation-launch-control-xl
-=================================
+Bitwig control script for Novation Launch Control XL
